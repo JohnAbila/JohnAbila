@@ -3,14 +3,13 @@
 
 <h3 align="left">Visual Communications | Branding | Motion Graphics | Typography</h3>
 
-- ⌨️🎨 I’m currently working on the typeface project <a href="(https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44)">Baybayin Neue</a>
+- ⌨️🎨 I’m currently working on the typeface project <a href="https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44" target="_blank">**Baybayin Neue**</a>
 
 - 📈📑 I’m currently learning **Type Design, Mograph, Animation**
 
-- 👨‍💻 All of my projects are available at [https://johnabila.com/](https://johnabila.com/)
+- 🖍🗂 You can view my work on <a href="https://johnabila.com/" target="_blank">**my Portfolio site**</a>
 
-
-- 📫 How to reach me **Hello@JohnAbila.com**
+- 📨✌️ How to reach me **Hello@JohnAbila.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/johnabila/](https://www.linkedin.com/in/johnabila/)
 
