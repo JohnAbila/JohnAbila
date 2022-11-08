@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm John Abila</h1>
 <h2 align="left">Design Nerd from Toronto, Canada</h2>
 
-<h3 align="left">Visual Communications | Branding | Motion Graphics | Typography</h3>
+<h3 align="left">Visual Communications | Design | Branding | Motion Graphics | Typography</h3>
 
 - ⌨️🎨 I’m currently working on the typeface project <a href="https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44" target="_blank">**Baybayin Neue**</a>
 
