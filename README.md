@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm John Abila</h1>
-<h3 align="left">A passionate Graphic Designer from Toronto, Canada</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnabila&label=Profile%20views&color=0e75b6&style=flat" alt="johnabila" /> </p>
+<h3 align="left">Design Nerd from Toronto, Canada</h3>
 
 - 🔭 I’m currently working on [Baybayin Neue](https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44)
 
@@ -26,3 +24,4 @@
 <a href="https://www.behance.net/johnabila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="johnabila" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/johnabila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="johnabila" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnabila&label=Profile%20views&color=0e75b6&style=flat" alt="johnabila" /> </p>
