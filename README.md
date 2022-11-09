@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/johnabila/](https://www.linkedin.com/in/johnabila/)
 
-- ⚡ Fun fact **I was born in Saudi Arabia**
+- ❔⚡ Fun fact **I was born in Saudi Arabia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
