@@ -12,6 +12,7 @@
 🔗📄 Click Here to learn more about my <a href="https://johnabila.com/](https://www.linkedin.com/in/johnabila/" target="_blank">**Experiences**</a>
 
 📈📑 I’m currently learning **Type Design, Mograph, Animation**
+
 ❔⚡ Fun fact **I was born in Saudi Arabia**
 
 <h3 align="left">Connect with me:</h3>
