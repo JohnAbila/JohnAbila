@@ -4,15 +4,10 @@
 <h3 align="left">Visual Communications | Design | Branding | Motion Graphics | Typography</h3>
 
 ⌨️🎨 My most recent typeface project <a href="https://johnabila.gumroad.com/l/Baybayin-Neue" target="_blank">**Baybayin Neue**</a>
-
 🖍🗂 You can view my work on my <a href="https://johnabila.com/" target="_blank">**portfolio site**</a>
-
 📨✌️ You can me through **Hello@JohnAbila.com**
-
 🔗📄 Click here to learn more about my <a href="https://johnabila.com/](https://www.linkedin.com/in/johnabila/" target="_blank">**experiences**</a>
-
 📈📑 I’m currently learning **Type Design, Mograph, Animation**
-
 ❔⚡ Fun fact **I was born in Saudi Arabia but grew up in Canada**
 
 <h3 align="left">Connect with me:</h3>
