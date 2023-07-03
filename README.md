@@ -3,7 +3,7 @@
 
 <h3 align="left">Visual Communications | Design | Branding | Motion Graphics | Typography</h3>
 
-⌨️🎨 My most recent typeface project <a href="https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44" target="_blank">**Baybayin Neue**</a>
+⌨️🎨 My most recent typeface project <a href="[https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44](https://johnabila.gumroad.com/l/Baybayin-Neue)" target="_blank">**Baybayin Neue**</a>
 
 🖍🗂 You can view my work on my <a href="https://johnabila.com/" target="_blank">**Portfolio site**</a>
 
