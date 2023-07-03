@@ -3,6 +3,7 @@
 
 <h3 align="left">Visual Communication Design | Branding | Motion Graphics | Typography</h3>
 👔 Currently a Graphic Designer at a interdisciplinary design firm <a href="https://hcma.ca/" target="_blank"><strong>hcma</strong></a><br>
+📜 Registered Graphic Designer, RGD Canada
 🎨 My most recent typeface project <a href="https://johnabila.gumroad.com/l/Baybayin-Neue" target="_blank"><strong>Baybayin Neue </strong></a><br>
 📑 I’m currently learning <strong>Type Design, Mograph, Animation</strong><br>
 ⚡ Fun fact I was born in Saudi Arabia but grew up in Canada
