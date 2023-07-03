@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm John Abila</h1>
-<h2 align="left">Design Nerd from Toronto, Canada</h2>
+<h2 align="left">Graphic Designer from Canada</h2>
 
 <h3 align="left">Visual Communications | Design | Branding | Motion Graphics | Typography</h3>
 
